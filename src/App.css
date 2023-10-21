@@ -1,0 +1,32 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+}
+.container .row{
+  margin-top: -20px;
+}
+#h1{
+  font-family: jokerman;
+  color: rgb(225, 37, 37);
+}
+textarea {
+  width: 700px;
+  height: 250px;
+  background: #e8cece;
+  padding: 10px;
+  border-radius: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.word-count {
+  color:black;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 260px;
+  padding-left: 20px;
+  height: 30px;
+  width: 150px;
+  background-color: antiquewhite;
+  border-radius: 14px;
+}
